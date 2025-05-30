@@ -1,0 +1,7 @@
+open cmd.exe
+
+ssh-keygen
+
+Overwrite (y/n)? y
+
+type C:\Users\XXXXXXXXX\.ssh\id_XXyyyyy.pub
